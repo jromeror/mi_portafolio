@@ -4,3 +4,14 @@ body {
   font-family: 'Merriweather', serif;
 }
 */
+
+h6 {
+  width: 80px;
+  height: 5px;
+  border-color: black;
+  border-bottom: solid;
+  border-width: 2px;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
